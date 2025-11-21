@@ -1,0 +1,17 @@
+priority: 0
+colorHue: 0.5
+id: dev.echkode.pbmods.stillcam
+ver: 1.0
+url: 
+includesConfigOverrides: false
+includesConfigEdits: false
+includesConfigTrees: false
+includesLibraries: true
+includesTextures: false
+includesLocalizationEdits: false
+includesLocalizations: false
+includesAssetBundles: false
+gameVersionMin: 2.0.0
+gameVersionMax: 
+name: Still Camera
+desc: Respect the autofocus camera game setting when switching between units in combat.
